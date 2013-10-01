@@ -2,5 +2,14 @@
 cursor_positions: 
   - :path: config/routes.rb
     :cursor_offset: 0
-    :timestamp: 2013-09-30 18:56:13.628000 -04:00
+    :timestamp: 2013-09-30 20:59:48.707000 -04:00
+  - :path: app/controllers/users_controller.rb
+    :cursor_offset: 177
+    :timestamp: 2013-09-30 20:59:48.717000 -04:00
+  - :path: app/models/user.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-30 20:59:48.670000 -04:00
+  - :path: app/views/users/index.html.erb
+    :cursor_offset: 0
+    :timestamp: 2013-09-30 20:59:48.739000 -04:00
 files_to_retain: 0
