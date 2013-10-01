@@ -4,3 +4,5 @@ open_files:
   - app/controllers/users_controller.rb
   - app/models/user.rb
   - app/views/users/index.html.erb
+  - app/controllers/microposts_controller.rb
+  - app/models/micropost.rb
