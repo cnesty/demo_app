@@ -18,4 +18,7 @@ cursor_positions:
   - :path: app/models/micropost.rb
     :cursor_offset: 150
     :timestamp: 2013-09-30 22:30:06.048000 -04:00
+  - :path: Gemfile
+    :cursor_offset: 1008
+    :timestamp: 2013-10-01 18:55:11.227000 -04:00
 files_to_retain: 0

@@ -6,3 +6,4 @@ open_files:
   - app/views/users/index.html.erb
   - app/controllers/microposts_controller.rb
   - app/models/micropost.rb
+  - Gemfile
